@@ -1,0 +1,36 @@
+body {
+  font-family: "Palatino, URW Palladio L, serif	";
+  background: hsla(145, 83%, 74%, 1);
+
+  background: linear-gradient(
+    90deg,
+    hsla(145, 83%, 74%, 1) 0%,
+    hsla(204, 77%, 76%, 1) 100%
+  );
+
+  background: -moz-linear-gradient(
+    90deg,
+    hsla(145, 83%, 74%, 1) 0%,
+    hsla(204, 77%, 76%, 1) 100%
+  );
+
+  background: -webkit-linear-gradient(
+    90deg,
+    hsla(145, 83%, 74%, 1) 0%,
+    hsla(204, 77%, 76%, 1) 100%
+  );
+
+  filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#87F4B5", endColorstr="#93CBF1", GradientType=1 );
+}
+
+h1 {
+  font-weight: 100;
+  text-transform: uppercase;
+  color: #040e25;
+  font-style: italic;
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 58px;
+  line-height: 54px;
+  text-shadow: 2px 5px 0 rgba(0, 0, 0, 0.2);
+  text-align: center;
+}

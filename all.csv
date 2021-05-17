@@ -1,0 +1,15 @@
+folder_name,file_name,description,dates
+node,node_npm.htm,basics of js and node js npm,27-30:04:2021
+node,wapp_api.htm,wappalyzer api,1-3:05:2021
+curl,curl.htm,send cURL requests for API's,04:05:2021
+html,html_basics.htm,create and host a static html website in github pages,04:05:2021
+react,react_basics.htm,basics of react,05-06:05:2021
+react,wapp_ui.htm,created basic UI for wappalyzer and connected it with backend services,07:05:2021
+react,error_email,error handling of emails,07:05:2021
+react,login_registr.htm,login popup as modal design layout and registration page,11:05:2021
+node,middleware_debugging.htm,concepts like middleware- debugging- environments,10:05:2021
+node,mongodb_post.htm,setup mongodb and connected to the backend services,12:05:2021
+react,routes.htm,creating routes for a website,13:05:2021
+react,react_css.htm,css,15:06:2021
+node,fs.htm,file handling,16:05:2021
+python,html_bs4,parse a html file using bs4,14:05:2021
