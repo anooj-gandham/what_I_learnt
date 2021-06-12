@@ -13,3 +13,11 @@ react,routes.htm,creating routes for a website,13:05:2021
 react,react_css.htm,css,15:06:2021
 node,fs.htm,file handling,16:05:2021
 python,html_bs4,parse a html file using bs4,14:05:2021
+node,data_validation.htm,data validtion for mongoDB in node,18:05:2021
+node,async_await.htm,concepts of asynchronous programming-callbacks-promise-async and await,19:05:2021
+node," unit_testing_basics.htm",concepts of testing-unit testing using jest,20:05:2021
+node,wappalyzer_lib.htm,understanding the working of wappalyzer library,22-27:05:2021
+html,dom.htm,"dom traversring, beautiful library",27-30:05:2021
+python,holonyms.htm,split the domain into meaningful names and find the holonyms of them using nltk library,01-03:06:2021
+python,rss_work.htm,"working with rss: find the rss url associated witha blog, extract the rss content and parse it using bs4",04-10:06:2021
+node,typesense_1.htm,installed typesense and configured to a movie dataset with custom schema,08-09:06:2021
