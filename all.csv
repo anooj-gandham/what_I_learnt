@@ -22,3 +22,5 @@ python,holonyms.htm,split the domain into meaningful names and find the holonyms
 python,rss_work.htm,"working with rss: find the rss url associated witha blog, extract the rss content and parse it using bs4",04-10:06:2021
 node,typesense_1.htm,installed typesense and configured to a movie dataset with custom schema,08-09:06:2021
 web and linux, web.htm,cross origin resourse sharing- firewalld- system ctl,    
+react,typesense_ui.htm, added widgets to typesense ui using InstantSearch library by Algolia,  
+react,typesense2.htm, working prototype of search engine running on server with custom schema,  
