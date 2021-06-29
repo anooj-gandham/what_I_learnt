@@ -21,3 +21,4 @@ html,dom.htm,"dom traversring, beautiful library",27-30:05:2021
 python,holonyms.htm,split the domain into meaningful names and find the holonyms of them using nltk library,01-03:06:2021
 python,rss_work.htm,"working with rss: find the rss url associated witha blog, extract the rss content and parse it using bs4",04-10:06:2021
 node,typesense_1.htm,installed typesense and configured to a movie dataset with custom schema,08-09:06:2021
+web and linux, web.htm,cross origin resourse sharing- firewalld- system ctl,    
