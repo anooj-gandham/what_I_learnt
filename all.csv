@@ -24,3 +24,4 @@ node,typesense_1.htm,installed typesense and configured to a movie dataset with 
 web and linux, web.htm,cross origin resourse sharing- firewalld- system ctl,    
 react,typesense_ui.htm, added widgets to typesense ui using InstantSearch library by Algolia,  
 react,typesense2.htm, working prototype of search engine running on server with custom schema,  
+python,blogclassifier1.htm,a simple blog classifier based the parts of speech in title using nltk library,26-27:06:2021
